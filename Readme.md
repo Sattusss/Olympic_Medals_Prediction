@@ -21,7 +21,7 @@ This outline is typical to most machine learning projects, and it will be follow
 
 ## Code
 
-You can find the code for this project [here]((https://github.com/Sattusss/Olympic_Medals_Prediction/blob/main/Teams.ipynb)).
+You can find the code for this project [here](https://github.com/Sattusss/Olympic_Medals_Prediction/blob/main/Teams.ipynb).
 
 File overview:
 
